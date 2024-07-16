@@ -22,9 +22,3 @@ Defines the generator and discriminator models using TensorFlow and Keras.
 
 ### Training the GAN
 Trains the GAN with the processed and augmented images, saving checkpoint models and generated images at intervals.
-
-## Installation
-Clone the repository and install the required libraries:
-git clone https://github.com/Anshuman-Samantaray/Generative-Adversarial-Network.git
-cd Generative-Adversarial-Network
-pip install -r requirements.txt
