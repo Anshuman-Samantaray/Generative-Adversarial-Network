@@ -26,7 +26,7 @@ Defines the generator and discriminator models using TensorFlow and Keras.
 Trains the GAN with the processed and augmented images. The training process includes:
 - **Checkpointing:** Saving model checkpoints and generated images at intervals.
 - **Inception Score Calculation:** Evaluating the quality of generated images and monitoring the Inception Score at regular intervals.
-- **Learning Rate Adjustment:** Adjusting the learning rate if the Inception Score does not improve to tackle potential false loop issues.
+- **Learning Rate Adjustment:** Adjusting the learning rate if the Inception Score does not improve to tackle potential false loop issues. 
 
 ### Updated Features in `submission.ipynb`
 
