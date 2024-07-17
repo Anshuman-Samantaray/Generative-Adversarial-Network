@@ -45,7 +45,7 @@ This repository includes three `.ipynb` files:
 ## How to Use
 
 1. **Prepare the Data:**
-   - Place the dataset zip file in the specified directory and update the `zip_path` and `extract_path` variables in the code.
+   - Place the dataset zip file in the specified directory and update the `zip_path` and `extract_path` variables in the code as per your requirements.
 
 2. **Run the Notebook:**
    - Execute the `submission.ipynb` file in a Jupyter environment to perform the entire pipeline, including image preprocessing, data augmentation, GAN training, and evaluation.
