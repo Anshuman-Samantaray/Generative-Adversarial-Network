@@ -38,7 +38,7 @@ This repository includes three `.ipynb` files:
    - **Learning Rate Adjustment:** Incorporated a mechanism to adjust the learning rate based on the Inception Score to help the model escape potential false looping situations.
    - **Enhanced Error Handling:** Improved robustness with additional error handling for file operations and image processing.
 
-2. **`final_code.ipynb`:** Contains the GAN pipeline without the advanced features introduced in the latest version.
+2. **`code.ipynb`:** Contains the GAN pipeline without the advanced features introduced in the latest version.
 
 3. **`code_with_prints.ipynb`:** Contains the code of final_code.ipynb but has the facility to show original, resized and equalized images.
 
